@@ -1,0 +1,14 @@
+<hobbiesList>
+     <hobby>
+          <activity>painting</activity>
+     </hobby>
+     <hobby>
+          <activity>video games</activity>
+     </hobby>
+     <hobby>
+          <activity>roller-skating</activity>
+     </hobby>
+     <favoriteHobby>
+          <activity>shopping</activity>
+     </favoriteHobby>
+<hobbiesList>
